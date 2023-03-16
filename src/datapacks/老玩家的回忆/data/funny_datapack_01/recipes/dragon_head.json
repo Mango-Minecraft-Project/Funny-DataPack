@@ -1,0 +1,22 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "010",
+    "111",
+    "212"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:gray_wool"
+    },
+    "1": {
+      "item": "minecraft:black_wool"
+    },
+    "2": {
+      "item": "minecraft:magenta_wool"
+    }
+  },
+  "result": {
+    "item": "minecraft:dragon_head"
+  }
+}

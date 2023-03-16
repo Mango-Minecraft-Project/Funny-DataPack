@@ -1,0 +1,14 @@
+{
+  "type": "crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:tnt"
+    },
+    {
+      "item": "minecraft:redstone_block"
+    }
+  ],
+  "result": {
+    "item": "minecraft:creeper_head"
+  }
+}

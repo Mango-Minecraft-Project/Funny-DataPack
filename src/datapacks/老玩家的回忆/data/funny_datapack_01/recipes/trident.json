@@ -1,0 +1,19 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    " 00",
+    "010",
+    "10"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:iron_ingot"
+    },
+    "1": {
+      "item": "minecraft:diamond_block"
+    }
+  },
+  "result": {
+    "item": "minecraft:trident"
+  }
+}
